@@ -131,6 +131,7 @@ Anaconda - Python 3.7
   <td>
     
 ### OUTPUT:
+![O5](https://github.com/JananiSoundararajan/COLOR_CONVERSIONS_OF-IMAGE/assets/119477549/1dbf0024-e307-4698-ad76-3434995956f1)
 
   </td>
   </tr>
@@ -160,6 +161,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![O6](https://github.com/JananiSoundararajan/COLOR_CONVERSIONS_OF-IMAGE/assets/119477549/39d5394c-bde6-459a-bbcf-378c305bffc5)
 
 ### vii) HSV to RGB and BGR
 ```Python
@@ -181,6 +183,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![O7](https://github.com/JananiSoundararajan/COLOR_CONVERSIONS_OF-IMAGE/assets/119477549/3875f6ec-f3d9-4d08-ad0f-1d6ea9a70b47)
 
 
 
@@ -202,6 +205,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![O8](https://github.com/JananiSoundararajan/COLOR_CONVERSIONS_OF-IMAGE/assets/119477549/4693bba5-570d-4d42-b98c-bc148d60560a)
 
 
 
