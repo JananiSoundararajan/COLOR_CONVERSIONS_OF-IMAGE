@@ -231,6 +231,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![O9](https://github.com/JananiSoundararajan/COLOR_CONVERSIONS_OF-IMAGE/assets/119477549/47f359ae-a89d-4ff7-a3be-ba58d0b16e27)
 
 
 
@@ -255,7 +256,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-
+![O10](https://github.com/JananiSoundararajan/COLOR_CONVERSIONS_OF-IMAGE/assets/119477549/8143fe85-9354-45f0-9b63-1bc68df9c40c)
 
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
